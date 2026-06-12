@@ -501,3 +501,35 @@ footer {
   padding: 1rem;
   color: #d7c4c8;
 }
+
+/* --- ESTILOS NOVOS PARA SEPARAÇÃO DOS PROJETOS --- */
+
+.section-subtitle {
+  text-align: center;
+  color: #7a4c59;
+  margin-top: -2rem;
+  margin-bottom: 3rem;
+  font-style: italic;
+  font-size: 1.1rem;
+}
+
+.abp-tag {
+  display: inline-block;
+  background-color: #7a4c59;
+  color: #fffafa;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+  letter-spacing: 0.5px;
+}
+
+.outros-projetos-title {
+  text-align: center;
+  color: #7a4c59; 
+  font-size: 2.5rem;
+  margin-top: 5rem; /* Dá um espaço legal entre os ABPs e os outros projetos */
+  margin-bottom: 3rem;
+  font-family: 'Poppins', sans-serif;
+}
