@@ -1,8 +1,8 @@
 # Portfólio de Projetos - Fatec Jacareí
 ### Aluno: Marcelly Cristini Santos de Souza
 ### Curso: Desenvolvimento de Software Multiplataforma
-### Turma: 2o. Semestre de 202
-
+### Turma: 2o. Semestre de 2023
+### Conclusão: 2o. Semestre de 2026
 ---
 
 **Portfólio Online**
